@@ -105,3 +105,9 @@
 [03Jan2025 01:55:49.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldeanomamado64 has made the advancement [Getting an Upgrade]
 [03Jan2025 01:57:54.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldeanomamado64 has made the advancement [Monster Hunter]
 [03Jan2025 01:58:12.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldeanomamado64 was doomed to fall by FalseTokito
+[03Jan2025 02:11:12.445] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FalseTokito lost connection: Timed out
+[03Jan2025 02:11:12.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FalseTokito left the game
+[03Jan2025 02:11:12.447] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client FalseTokito
+[03Jan2025 02:11:33.145] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aldeanomamado64 lost connection: Timed out
+[03Jan2025 02:11:33.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldeanomamado64 left the game
+[03Jan2025 02:11:33.146] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Aldeanomamado64
